@@ -1,4 +1,4 @@
-# portifolio
+# portfolio
 
 Portfolio is simple app that uses all my projects that i posted on my GitHub and there are link to my GitHub page and LinkedIn, also using a light and a dark mode, using all the tecniques that I've learned on Alura immersion.
  
